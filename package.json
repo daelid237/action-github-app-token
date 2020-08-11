@@ -1,7 +1,7 @@
 {
   "name": "action-github-app-token",
   "version": "1.0.0",
-  "description": "",
+  "description": "Gets a GitHub auth token for a GitHub App installation",
   "main": "lib/main.js",
   "scripts": {
     "build": "tsc && ncc build",
